@@ -43,7 +43,13 @@ body {
     padding: 20px;
 }
 
-.radape {
+.rodape {
     grid-area: rodape;
     background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.1rem;
+    padding: 20px;
+    color: #444;
 }
