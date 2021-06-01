@@ -36,6 +36,7 @@
                     <h3>Módulo - Tipos de Dados</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=tipos&file=int">Tipo inteiro</a></li>
+                        <li><a href="exercicios.php?dir=tipos&file=float">Tipo float</a></li>
                     </ul>
                 </div>
             </nav>
