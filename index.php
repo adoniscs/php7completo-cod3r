@@ -32,6 +32,12 @@
                         <li><a href="exercicios.php?dir=basico&file=desafio">Desafio</a></li>
                     </ul>
                 </div>
+                <div class="modulo vermelho">
+                    <h3>Módulo - Tipos de Dados</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=tipos&file=int">Tipo inteiro</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
