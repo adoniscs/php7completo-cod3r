@@ -40,6 +40,8 @@
                         <li><a href="exercicios.php?dir=tipos&file=float">Tipo float</a></li>
 
                         <li><a href="exercicios.php?dir=tipos&file=aritmeticas">Tipo float</a></li>
+                        
+                        <li><a href="exercicios.php?dir=tipos&file=desafio">Desafio</a></li>
                     </ul>
                 </div>
             </nav>
