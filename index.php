@@ -19,9 +19,12 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>Módulo 01- Básico</h3>
+                    <h3>Módulo - Básico</h3>
                     <ul>
-                        <li><a href="exercicios.php?dir=teste&file=teste">Exercício A</a></li>
+                        <li><a href="exercicios.php?dir=basico&file=ola">Olá PHP</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicios.php?dir=basico&file=html">Integração HTML</a></li>
                     </ul>
                 </div>
             </nav>
