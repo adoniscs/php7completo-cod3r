@@ -26,6 +26,9 @@
                     <ul>
                         <li><a href="exercicios.php?dir=basico&file=html">Integração HTML</a></li>
                     </ul>
+                    <ul>
+                        <li><a href="exercicios.php?dir=basico&file=css">Integração CSS</a></li>
+                    </ul>
                 </div>
             </nav>
         </div>
