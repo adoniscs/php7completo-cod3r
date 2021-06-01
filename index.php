@@ -32,6 +32,9 @@
                     <ul>
                         <li><a href="exercicios.php?dir=basico&file=comentarios">Comentários PHP</a></li>
                     </ul>
+                    <ul>
+                        <li><a href="exercicios.php?dir=basico&file=desafio">Desafio</a></li>
+                    </ul>
                 </div>
             </nav>
         </div>
